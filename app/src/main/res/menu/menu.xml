@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/color"
+        android:title="@string/color">
+        <menu>
+            <item android:id="@+id/blue"
+                android:title="@string/blue"/>
+            <item android:id="@+id/red"
+                android:title="@string/red"/>
+            <item android:id="@+id/green"
+                android:title="@string/green"/>
+            <item android:id="@+id/lightBlue"
+                android:title="@string/lightBlue"/>
+        </menu>
+    </item>
+
+    <item android:id="@+id/rotate"
+    android:title="@string/rotate"/>
+
+    <item android:id="@+id/addText"
+        android:title="@string/addText"/>
+
+    <item android:id="@+id/exit"
+        android:title="@string/exit"/>
+</menu>

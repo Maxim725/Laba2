@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаба2</string>
+    <string name="text">Ку Мир!</string>
+    <string name="red">Красный</string>
+    <string name="green">Зеленый</string>
+    <string name="blue">Синий</string>
+    <string name="lightBlue">Ярко Синий</string>
+    <string name="color">Цвет</string>
+    <string name="rotate">Повернуть</string>
+    <string name="addText">Добавить текст</string>
+    <string name="exit">Выход</string>
+</resources>
